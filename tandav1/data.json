@@ -1,0 +1,37 @@
+{
+    "modal1": {
+      "title": "Modal 1 Title",
+      "body":["Modal 1 body"] 
+    },
+    "modal2": {
+      "title": "Modal 2 Title",
+      "body": "Modal 2 Body"
+    },
+    "modal3": {
+      "title": "Modal 3 Title",
+      "body": "Modal 3 Body"
+    },
+
+    "modal4": {
+        "title": "Modal 4 Title",
+        "body": "Modal 4 Body"
+      },
+      "modal5": {
+        "title": "Modal 5 Title",
+        "body": "Modal 5 Body"
+      },
+      "modal6": {
+        "title": "Modal 6 Title",
+        "body": "Modal 6 Body"
+      },
+
+      "modal7": {
+        "title": "Modal 7 Title",
+        "body": "Modal 7 Body"
+      },
+      "modal8": {
+        "title": "Modal 8 Title",
+        "body": "Modal 8 Body"
+      }
+  }
+  

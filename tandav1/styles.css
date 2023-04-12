@@ -1,0 +1,139 @@
+body {
+  background-color: #091428
+}
+
+html {
+  font-family: 'bitling ravish';
+}
+
+#events {
+  height: 1000px;
+}
+
+.container-fluid{
+  height: 1000px;
+  width: 1000px;
+  padding-top: 100px;
+  margin-left: 70px;
+  margin-right: 100px;
+}
+
+.general-rules1{
+  color: #6E7DFF;
+  font-weight: 400;
+font-size: 43px;
+line-height: 42px;
+font-family: 'bitling_ravish';
+}
+
+.para{
+  color: white;
+}
+
+.astra-rules{
+  color:  #6E7DFF;
+  padding-top: 10px;
+  font-weight: 400;
+font-size: 43px;
+line-height: 42px;
+font-family: 'bitling_ravish';
+}
+
+.event-title1{
+  font-style: italic;
+font-weight: 700;
+font-size: 90px;
+line-height: 88px;
+color: white;
+padding-top: 50px;
+
+}
+
+.category1{
+  color: #6E7DFF;
+padding-top: 70px;
+padding-bottom: 30px;
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+}
+
+.mrityunjaya{
+
+}
+
+.card{
+  width: 245px;
+height: 155px;
+background: rgba(255, 218, 218, 0.185);
+backdrop-filter: blur(12.682px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 0px 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.modal{
+  position:fixed;
+  display: none;
+}
+
+.modal-content{
+  background-color: #091428;
+}
+
+.btn-close{
+  background-color:#6E7DFF;
+}
+
+.modal-title{
+  color: #6E7DFF;
+}
+
+.modal-body{
+  color: white;
+}
+
+.container{
+  display:flex;
+}
+
+.card-c{
+  margin-left: 40px;
+}
+
+.card1-details{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.event-name1{
+  font-family: 'Urbanist';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+color: #FFFFFF;
+margin-bottom: 0px;
+}
+
+.alias-name1{
+  font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+color: #FFFFFF;
+
+}
+
+.box-2{
+  display: flex;
+  margin-top: 40px;
+}
